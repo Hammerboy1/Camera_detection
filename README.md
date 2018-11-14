@@ -8,3 +8,5 @@ LINKS
 - https://medium.com/tensorflow/amd-rocm-gpu-support-for-tensorflow-33c78cc6a6cf
 - https://gpuopen.com/rocm-tensorflow-1-8-release/
 - https://rocm.github.io/ROCmInstall.html
+
+- https://www.pyimagesearch.com/2018/05/28/ubuntu-18-04-how-to-install-opencv/
