@@ -10,3 +10,9 @@ LINKS
 - https://rocm.github.io/ROCmInstall.html
 
 - https://www.pyimagesearch.com/2018/05/28/ubuntu-18-04-how-to-install-opencv/
+
+What object detector to use?
+
+The most accurate single model use Faster R-CNN using Inception ResNet with 300 proposals. It runs at 1 second per image.
+
+
