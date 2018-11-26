@@ -16,3 +16,4 @@ What object detector to use?
 The most accurate single model use Faster R-CNN using Inception ResNet with 300 proposals. It runs at 1 second per image.
 
 
+Shi-Tomasi corner detection algorithm
